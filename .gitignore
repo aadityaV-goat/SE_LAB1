@@ -1,0 +1,6 @@
+
+# Python-generated files and virtual environments
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/tickets.json

@@ -1,0 +1,8 @@
+************* Module helpdesk_system
+helpdesk_system.py:129:0: C0305: Trailing newlines (trailing-newlines)
+helpdesk_system.py:18:4: W0603: Using the global statement (global-statement)
+helpdesk_system.py:100:4: W0612: Unused variable 'ticket_two' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 9.56/10 (previous run: 5.53/10, +4.03)
+
