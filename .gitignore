@@ -4,3 +4,9 @@
 **/__pycache__/
 **/*.pyc
 **/tickets.json
+.DS_Store
+.venv/
+.coverage
+htmlcov/
+__pycache__/
+.pytest_cache/
